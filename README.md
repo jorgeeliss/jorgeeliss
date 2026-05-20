@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jorge Eliss  
 
-🎓 **Estudiante de octavo semestre de Ingeniería** con muchas ganas de aprender al máximo y seguir creciendo como desarrollador profesional.  
+🎓 **Estudiante de noveno semestre de Ingeniería** con muchas ganas de aprender al máximo y seguir creciendo como desarrollador profesional.  
 💻 Apasionado por la tecnología, el desarrollo de software y la creación de soluciones innovadoras que generen impacto real.
 
 ---
@@ -8,13 +8,13 @@
 ## 🚀 Tecnologías y herramientas
 
 **Lenguajes de programación:**  
-Java · Python · JavaScript · R  
+Java · Python · JavaScript · CSS · R  
 
 **Frameworks y librerías:**  
 Flutter · React · Angular · Node.js  
 
 **Bases de datos y servicios:**  
-Firebase · MongoDB · MySQL  
+Firebase · MongoDB · MySQL · SQLite
 
 **Otros:**  
 Power BI · Inglés intermedio  
