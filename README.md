@@ -8,7 +8,7 @@
 ## 🚀 Tecnologías y herramientas
 
 **Lenguajes de programación:**  
-Java · Python · JavaScript · CSS · R  
+Java · Python · JavaScript · CSS · HTML
 
 **Frameworks y librerías:**  
 Flutter · React · Angular · Node.js  
